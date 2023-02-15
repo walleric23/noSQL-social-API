@@ -1,0 +1,19 @@
+{
+  "name": "nosql-social-api",
+  "version": "1.0.0",
+  "description": "social network api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walleric23/noSQL-social-API.git"
+  },
+  "author": "Eric Wall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walleric23/noSQL-social-API/issues"
+  },
+  "homepage": "https://github.com/walleric23/noSQL-social-API#readme"
+}
