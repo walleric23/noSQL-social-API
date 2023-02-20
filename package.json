@@ -1,10 +1,11 @@
 {
   "name": "nosql-social-api",
   "version": "1.0.0",
-  "description": "social network api",
-  "main": "index.js",
+  "description": "Social Network API",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/walleric23/noSQL-social-API/issues"
   },
-  "homepage": "https://github.com/walleric23/noSQL-social-API#readme"
+  "homepage": "https://github.com/walleric23/noSQL-social-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "stack": "^0.1.0"
+  }
 }
